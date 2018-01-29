@@ -1,0 +1,75 @@
+.navbar-light .navbar-brand {
+  color:red;
+}
+
+.nav-link {
+  color:white;
+}
+
+#video1 {
+  text-align: center;
+  font-family: 'Lobster', cursive;
+}
+
+#video2 {
+  text-align: center;
+  font-family: 'Lobster', cursive;
+}
+
+.carousel-item {
+  max-height: 800px;
+}
+
+.navbar-brand {
+  font-family: 'Pacifico', cursive;
+}
+
+.carousel-caption {
+  font-family: 'Lobster', cursive;
+}
+
+.carousel-caption {
+    top: 0;
+    bottom: auto;
+}
+
+#torontojumbo {
+  background-image: url(toronto3.png);
+  background-size: cover;
+  background-position: center bottom;
+  height: 600px;
+}
+
+.display-4 {
+  font-family: 'Lobster', cursive;
+}
+
+#vancouverjumbo {
+  background-image: url(vancouver3.jpg);
+  background-size: cover;
+  background-position: center bottom;
+  height: 600px;
+}
+
+#vancouverheader {
+  color: white;
+}
+
+.column-6 {
+  font-family: 'Lobster', cursive;
+}
+
+.table {
+  text-align: center;
+  font-family: 'Pragati Narrow', sans-serif;
+  font-size: 20px;
+}
+
+li {
+  font-family: 'Pragati Narrow', sans-serif;
+  font-size:20px;
+}
+
+h3 {
+  font-family: 'Lobster', cursive;
+}
